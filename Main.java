@@ -8,7 +8,7 @@ public class Main
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		private double saldo = 1000;
+	    double saldo = 1000;
 		int opcao;
 
 		do {
